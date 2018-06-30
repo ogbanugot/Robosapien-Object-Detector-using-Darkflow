@@ -1,6 +1,6 @@
 # Robosapien-Object-Detector-using-Darkflow  
 Detect the Robosapien in an image  using darkflow.  
-![alt text](https://res.cloudinary.com/ogbanugot/image/upload/v1530394574/temp2_okftkq.png)  
+![alt text](https://res.cloudinary.com/ogbanugot/image/upload/v1530397120/temp2_sndqpl.png)  
   
   
 ![alt text](https://res.cloudinary.com/ogbanugot/image/upload/v1530394580/00000186_lphw76.jpg)
