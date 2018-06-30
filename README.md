@@ -1,5 +1,7 @@
 # Robosapien-Object-Detector-using-Darkflow  
 Detect the Robosapien in an image  using darkflow.  
+  
+  
 ![alt text](https://res.cloudinary.com/ogbanugot/image/upload/v1530397120/temp2_sndqpl.png)  
   
   
@@ -26,5 +28,5 @@ Check darkflow/sample_img/out to see the results.
 You can train on your own robosapien dataset using the built graph. From darkflow/ run; 
   
 flow --train --model cfg/tiny-yolo-voc-1c.cfg --load 3625  
-
-
+  
+Ensure to go through the [darkflow](https://github.com/thtrieu/darkflow) repository for more info.
