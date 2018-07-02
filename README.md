@@ -14,7 +14,7 @@ Install darkflow from [here](https://github.com/thtrieu/darkflow). You can build
 
 ## The necessary files  
 The ./cfg and ./bin directories in this repository contain the cfg and weight file. You can use this to train a single class object detector from scratch.  
-./pb contains the built graph as a protobuf (.pb) file and the meta file (.meta). See the darkflow repository for more on these files.  
+./built_graph contains the built graph as a protobuf (.pb) file and the meta file (.meta). See the darkflow repository for more on these files.  
 Integrate these folders with their respective darkflow directories. You will have to create the ./built_graph directory in darkflow, just copy and paste it.
   
 ## Making a prediction  
